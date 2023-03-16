@@ -1,0 +1,16 @@
+{
+  "name": "just-antoher-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ruteski/just-antoher-chat.git",
+  "author": "Lincoln Ruteski <lruteski@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
